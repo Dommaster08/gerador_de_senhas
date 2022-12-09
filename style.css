@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+    margin-top: 50px;
+    background-color: rgb(19, 19, 19);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-bottom: 45px;
+}
+#container{
+    text-align: center;
+    background-color: rgb(15, 15, 82);
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.75);
+}
+
+#gerador{
+    margin-top: 35px;
+    color: white;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+button{
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(56, 190, 56);
+    border: none;
+    cursor: pointer;
+}
